@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #343838;
+}
+
+.navbar a {
+    color:  #ffffff;
+}
+
+
+.navbar a:hover {
+    color:  #40ffdc;
+}
+
+.navbar button {
+    color: #00b4fc;
+    border-color: #00b4fc;
+}
+
+
+.navbar button:hover {
+    color: #40ffdc;
+    border-color: #40ffdc;
+}
+
+
+.navbar input {
+    border-color: #00b4fc
+}
+.navbar input:active {
+    border-color: #40ffdc
+}
